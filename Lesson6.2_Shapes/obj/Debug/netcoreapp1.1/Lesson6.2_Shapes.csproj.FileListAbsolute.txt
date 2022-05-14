@@ -1,0 +1,10 @@
+C:\Users\alvio\source\repos\lesson6\Lesson6.2_Shapes\bin\Debug\netcoreapp1.1\Lesson6.2_Shapes.deps.json
+C:\Users\alvio\source\repos\lesson6\Lesson6.2_Shapes\bin\Debug\netcoreapp1.1\Lesson6.2_Shapes.runtimeconfig.json
+C:\Users\alvio\source\repos\lesson6\Lesson6.2_Shapes\bin\Debug\netcoreapp1.1\Lesson6.2_Shapes.runtimeconfig.dev.json
+C:\Users\alvio\source\repos\lesson6\Lesson6.2_Shapes\obj\Debug\netcoreapp1.1\Lesson6.2_Shapes.csprojResolveAssemblyReference.cache
+C:\Users\alvio\source\repos\lesson6\Lesson6.2_Shapes\obj\Debug\netcoreapp1.1\Lesson6.2_Shapes.csproj.CoreCompileInputs.cache
+C:\Users\alvio\source\repos\lesson6\Lesson6.2_Shapes\obj\Debug\netcoreapp1.1\Lesson6.2_Shapes.AssemblyInfo.cs
+C:\Users\alvio\source\repos\lesson6\Lesson6.2_Shapes\bin\Debug\netcoreapp1.1\Lesson6.2_Shapes.dll
+C:\Users\alvio\source\repos\lesson6\Lesson6.2_Shapes\bin\Debug\netcoreapp1.1\Lesson6.2_Shapes.pdb
+C:\Users\alvio\source\repos\lesson6\Lesson6.2_Shapes\obj\Debug\netcoreapp1.1\Lesson6.2_Shapes.dll
+C:\Users\alvio\source\repos\lesson6\Lesson6.2_Shapes\obj\Debug\netcoreapp1.1\Lesson6.2_Shapes.pdb

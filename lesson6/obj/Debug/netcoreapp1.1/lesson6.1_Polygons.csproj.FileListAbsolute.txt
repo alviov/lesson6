@@ -1,0 +1,10 @@
+C:\Users\alvio\source\repos\lesson6\lesson6\bin\Debug\netcoreapp1.1\lesson6.1_Polygons.deps.json
+C:\Users\alvio\source\repos\lesson6\lesson6\bin\Debug\netcoreapp1.1\lesson6.1_Polygons.runtimeconfig.json
+C:\Users\alvio\source\repos\lesson6\lesson6\bin\Debug\netcoreapp1.1\lesson6.1_Polygons.runtimeconfig.dev.json
+C:\Users\alvio\source\repos\lesson6\lesson6\bin\Debug\netcoreapp1.1\lesson6.1_Polygons.dll
+C:\Users\alvio\source\repos\lesson6\lesson6\bin\Debug\netcoreapp1.1\lesson6.1_Polygons.pdb
+C:\Users\alvio\source\repos\lesson6\lesson6\obj\Debug\netcoreapp1.1\lesson6.1_Polygons.csprojResolveAssemblyReference.cache
+C:\Users\alvio\source\repos\lesson6\lesson6\obj\Debug\netcoreapp1.1\lesson6.1_Polygons.csproj.CoreCompileInputs.cache
+C:\Users\alvio\source\repos\lesson6\lesson6\obj\Debug\netcoreapp1.1\lesson6.1_Polygons.AssemblyInfo.cs
+C:\Users\alvio\source\repos\lesson6\lesson6\obj\Debug\netcoreapp1.1\lesson6.1_Polygons.dll
+C:\Users\alvio\source\repos\lesson6\lesson6\obj\Debug\netcoreapp1.1\lesson6.1_Polygons.pdb
